@@ -1,0 +1,10 @@
+# ignore all data
+data/*
+
+# ignore unnecessary notebook and it's checkpoints
+play.ipynb
+.ipynb_checkpoints/play-checkpoint.ipynb
+
+# ignore model files
+*.pt
+
