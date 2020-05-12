@@ -12,7 +12,7 @@ All of this is done in Python with PyTorch, Huggingface's Transformers package, 
 
  
 ### Appendix
-Some resources I used which helped me a lot on this project:\
+Some resources I used which helped me a lot on this project:
 1) Ben Trevett's Github page, contains a lot of tutorials and examples in PyTorch: https://github.com/bentrevett \
  In particular, his sentiment analysis repository where he applied BERT was very helpful. 
 2) ML Explained TorchText tutorial. Supplemental  to Ben Trevett's tutorials, this went a little more in depth on what the TorchText classes do: http://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/
