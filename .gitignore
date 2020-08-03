@@ -8,3 +8,5 @@ play.ipynb
 # ignore model files
 *.pt
 
+# ignore.idea files
+.idea/*
