@@ -10,3 +10,7 @@ play.ipynb
 
 # ignore.idea files
 .idea/*
+
+# ignore venv files
+venv/*
+
