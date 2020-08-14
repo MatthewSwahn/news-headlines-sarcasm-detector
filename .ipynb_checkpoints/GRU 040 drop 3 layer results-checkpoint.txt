@@ -1,1 +1,8 @@
-Epoch: 1 | Epoch Time: 0m 39s	Train Loss: 0.400 | Train Acc: 81.38%	 Val. Loss: 0.304 |  Val. Acc: 86.94% |  Val. Precision: 50.00|  Val. Recall: 100.00 |  Val. F1: 66.67
+Epoch: 1 | Epoch Time: 0m 38s	Train Loss: 0.395 | Train Acc: 81.76%	 Val. Loss: 0.352 |  Val. Acc: 85.15% |  Val. Precision: 50.00|  Val. Recall: 100.00 |  Val. F1: 66.67
+
+Epoch: 2 | Epoch Time: 0m 38s	Train Loss: 0.270 | Train Acc: 88.76%	 Val. Loss: 0.259 |  Val. Acc: 89.00% |  Val. Precision: 50.00|  Val. Recall: 100.00 |  Val. F1: 66.67
+
+Epoch: 3 | Epoch Time: 0m 38s	Train Loss: 0.220 | Train Acc: 90.79%	 Val. Loss: 0.264 |  Val. Acc: 89.11% |  Val. Precision: 50.00|  Val. Recall: 100.00 |  Val. F1: 66.67
+
+Epoch: 4 | Epoch Time: 0m 38s	Train Loss: 0.188 | Train Acc: 92.38%	 Val. Loss: 0.412 |  Val. Acc: 84.50% |  Val. Precision: 50.00|  Val. Recall: 100.00 |  Val. F1: 66.67
+
