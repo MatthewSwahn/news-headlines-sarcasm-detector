@@ -1,0 +1,1 @@
+Epoch: 1 | Epoch Time: 0m 39s	Train Loss: 0.400 | Train Acc: 81.38%	 Val. Loss: 0.304 |  Val. Acc: 86.94% |  Val. Precision: 50.00|  Val. Recall: 100.00 |  Val. F1: 66.67

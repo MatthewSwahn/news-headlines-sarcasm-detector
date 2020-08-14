@@ -129,4 +129,4 @@ def fit(n_epochs, model, train_iter, valid_iter, optimizer, criterion, model_nam
             f.write(f'\tTrain Loss: {train_loss:.3f} | Train Acc: {train_acc * 100:.2f}%')
             f.write(f'\t Val. Loss: {valid_loss:.3f} |  Val. Acc: {valid_acc * 100:.2f}% |  Val. Precision: '
                     f'{valid_precision * 100:.2f}|  Val. Recall: {valid_recall * 100:.2f} |  '
-                    f'Val. F1: {valid_f1 * 100:.2f}')
+                    f'Val. F1: {valid_f1 * 100:.2f}\n\n')
