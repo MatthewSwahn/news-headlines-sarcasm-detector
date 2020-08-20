@@ -14,3 +14,4 @@ play.ipynb
 # ignore venv files
 venv/*
 
+configure.py
